@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Ofertas de la semana</title>
+    <link>https://ledimisiu.github.io/palanca/</link>
+    <description>Ofertas semanales</description>
+    <category>Barato</category>
+    <category>Rebajas</category>
+    <language>es</language>
+    
+    <item>
+      <title>Teléfono okia 5932</title>
+      <description>Móvil de hace más de 20 años que puede resistir el más duro de los golpes.</description>
+      <pubDate>Tue, 11 Jun 2024 23:44:55 GMT</pubDate>
+      <enclosure url="https://i.pinimg.com/736x/df/5b/23/df5b23731db9021f5e5350767e154ba6.jpg" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Portátil</title>
+      <description>Portátil de marca blanca. Todavía funciona.</description>
+      <pubDate>Tue, 11 Jun 2024 23:03:00 GMT</pubDate>
+      <enclosure url="https://www.avisualpro.es/wp-content/uploads/2020/06/ordenador-portatil-asus-zenbook-14-8gb-512gb.jpg" type="image/jpeg"/>
+    </item> 
+
+    <item>
+      <title>iPhone</title>
+      <description>Teléfono estrella de Apple</description>
+      <pubDate>Tue, 11 Jun 2024 11:30:00 GMT</pubDate>
+      <enclosure url="https://i.blogs.es/779470/1366_2000/500_500.jpeg" type="image/jpeg"/>
+    </item>
+    
+  </channel>
+  
+</rss>

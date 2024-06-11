@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Noticias</title>
+    <link>https://ledimisiu.github.io/palanca/</link>
+    <description>Noticias y novedades</description>
+    <category>Tecnología</category>
+    <category>Windows</category>
+    <language>es</language>
+    
+    <item>
+      <title>Teléfono okia 5932</title>
+      <description>Novedad! </description>
+      <pubDate>Tue, 11 Jun 2024 23:44:55 GMT</pubDate>
+      <enclosure url="https://i.pinimg.com/736x/df/5b/23/df5b23731db9021f5e5350767e154ba6.jpg" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Wow! Con este método podrás ganar 100€ por hora!</title>
+      <description>Que no se enteren los bancos!!</description>
+      <pubDate>Tue, 11 Jun 2024 23:03:00 GMT</pubDate>
+      <enclosure url="https://www.avisualpro.es/wp-content/uploads/2020/06/ordenador-portatil-asus-zenbook-14-8gb-512gb.jpg" type="image/jpeg"/>
+    </item> 
+
+    <item>
+      <title>Windows 9 es real</title>
+      <description>Se filtra versión oficial de Windows 9.</description>
+      <pubDate>Tue, 11 Jun 2024 11:30:00 GMT</pubDate>
+      <enclosure url="https://i.blogs.es/779470/1366_2000/500_500.jpeg" type="image/jpeg"/>
+    </item>
+    
+  </channel>
+</rss>
